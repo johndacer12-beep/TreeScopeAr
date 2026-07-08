@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "390664508020",
+    "project_id": "treescope-f70f8",
+    "storage_bucket": "treescope-f70f8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390664508020:android:027dd911f51936fe6eb721",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.TreeScope"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARN1Ad1RvyDGKvnJMIjkzxyz6RZMoeQQI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -104,3 +104,20 @@ InitTestScene*.unity*
 
 # Auto-generated cache in Assets folder
 /[Aa]ssets/[Ss]ceneDependencyCache*
+
+# Unity
+TreeScope/[Ll]ibrary/
+TreeScope/[Tt]emp/
+TreeScope/[Oo]bj/
+TreeScope/[Bb]uild/
+TreeScope/[Bb]uilds/
+TreeScope/[Ll]ogs/
+TreeScope/UserSettings/
+TreeScope/MemoryCaptures/
+
+# Android/Gradle
+TreeScope/**/build/
+TreeScope/**/.gradle/
+
+TreeScope/.vscode/
+TreeScope/TreeScopeAR_BackUpThisFolder_ButDontShipItWithYourGame/
